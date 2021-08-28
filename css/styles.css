@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Merienda One', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Kameron', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.myskill {
+    text-align: center;
+}
+
+h3{
+    font-family: 'Kameron', serif;
+    color: #11999E;
+    
+}
+
+p {
+
+line-height: 2;
+
+}
+
+a {
+    color: #11999E;
+}
+
+
+.first{
+    background-color: #d7fceb;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 70px
+}
+
+.bottom-cloud{
+    position:  absolute;
+    left: 70px;
+    bottom: 300px;
+}
+
+.middle{
+    padding-top: 100px;
+}
+
+.skills {
+    text-align: left;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+
+}
+
+.pic{
+    height: 200px;
+    border: 3px solid;
+    border-radius: 50%;
+}
+
+.skill-img-width {
+  width: 25%;
+  align-items: left;
+  
+}
+
+.color{
+    background-color: rgb(0, 0, 0);
+    border: 3px solid;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.android {
+float: right;
+margin-left: 30px;
+}
+
+.last{
+    background-color: rgb(123, 203, 218);
+    padding: 30px;
+}
+ 
+hr {
+    border-style: dotted none none;
+    border-color: rgb(194, 194, 194);
+    border-width: 5px;
+    width: 10%;
+    margin-top: 120px ;
+    padding-top: 90px ;
+}
+
+.btn {
+border-radius: 20px;
+height: 14px;
+line-height: 14px;
+color: #ffffff;
+background-color: #11999E;
+font-family: Open Sans;
+width: 185px;
+font-size: 20px;
+font-weight: 900;
+padding: 15px;
+box-shadow: 1px 1px 6px 0px #000000;
+-webkit-box-shadow: 1px 1px 6px 0px #000000;
+-moz-box-shadow: 1px 1px 6px 0px #000000;
+text-shadow: 1px 1px 6px #000000;
+border: solid #ffffff 1px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+margin-bottom: 100px;
+margin-top: 60px;
+}
+
+.btn:hover {
+    background-color: #01696d;
+}
+
+.lastLine
+{
+    color: white;
+}
+
+.footer-link {
+    padding: 15px;
+    text-decoration: none;
+}
